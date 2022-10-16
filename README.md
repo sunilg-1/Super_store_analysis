@@ -22,4 +22,4 @@ Which City has the Highest Number of Sales?
 
 Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis
 
-The dataset is available in [KAGGLE](https://www.kaggle.com/datasets/akashkothare/tsf-datasets?select=SampleSuperstore.csv)
+You can find the dataset in [KAGGLE](https://www.kaggle.com/datasets/akashkothare/tsf-datasets?select=SampleSuperstore.csv)
